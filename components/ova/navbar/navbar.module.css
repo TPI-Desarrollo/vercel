@@ -1,0 +1,24 @@
+.container {
+   background-image: url("/images/background_ranking_croped.png");
+   background-position: right top;
+   background-repeat: no-repeat;
+   background-size: 100vw auto;
+
+   min-height: var(--backgroundRankingHeight);
+   width: 100vw;
+}
+
+.navbar {
+   position: absolute;
+   width: 29.16vw;
+   right: 44px;
+   bottom: 27px;
+}
+
+.qvBotTest {
+   position: absolute;
+   bottom: 0;
+   left: 0;
+   width: 33.59vw;
+   height: auto;
+}
