@@ -18,7 +18,10 @@ export default function Home() {
          <div className={styles.header} />
          <main className={styles.main}>
             <div className={styles.navBar} />
-            <Ova data={data} html={html} css={css} />
+            {/* <Ova data={data} html={html} css={css} /> */}
+
+            <object id="ovaNavBar" className={styles.navbar}
+               type="image/svg+xml" data="/images/ovas/template/ovaNavBar.svg" />
          </main>
       </>
    );
