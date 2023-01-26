@@ -1,0 +1,9 @@
+.container {
+   background-image: url("/images/ovas/template/ovasBackground.png");
+   background-position: right top;
+   background-repeat: no-repeat;
+   background-size: 100vw auto;
+
+   min-height: var(--backgroundRankingHeight);
+   width: 100vw;
+}

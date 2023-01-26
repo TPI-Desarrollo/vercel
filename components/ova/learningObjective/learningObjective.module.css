@@ -1,0 +1,52 @@
+.container {
+   display: block;
+}
+
+.title {
+   position: absolute;
+   left: 26.9vw;
+   bottom: 59.5vh;
+   width: 24.58vw;
+   height: auto;
+
+   font-family: "Poppins", sans-serif;
+   font-weight: 300;
+   font-size: 1.96vw;
+   line-height: 1.8em;
+   color: white;
+}
+
+.titleBar {
+   position: absolute;
+   width: 100vw;
+   height: 5.4em;
+   bottom: 35vh;
+   background-color: rgba(34, 36, 75, 0.3);
+
+   padding-left: 27vw;
+   padding-right: 34vw;
+   font-family: "Poppins", sans-serif;
+   font-weight: 600;
+   font-size: 2.3vw;
+   line-height: 1.1em;
+   color: white;
+
+   display: flex;
+   align-items: center;
+}
+
+.qBot {
+   position: absolute;
+   left: 76.25vw;
+   bottom: 52.26vh;
+   width: 8.54vw;
+   height: auto;
+}
+
+.qvBot {
+   position: absolute;
+   left: 0;
+   bottom: 0;
+   width: 30vw;
+   height: auto;
+}

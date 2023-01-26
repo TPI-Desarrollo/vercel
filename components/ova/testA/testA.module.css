@@ -1,0 +1,76 @@
+.title {
+   position: absolute;
+   width: 100vw;
+   height: 14.25vh;
+   top: 28.09vh;
+
+   padding-left: 3.41vw;
+   font-family: "Poppins", sans-serif;
+   font-weight: 600;
+   font-size: 3.17vw;
+   line-height: 1.2em;
+   color: rgb(255, 255, 255);
+   text-align: center;
+   display: flex;
+   align-items: center;
+}
+
+.question {
+   position: absolute;
+   width: 100vw;
+   height: 14.25vh;
+   top: 41.14vh;
+   background-color: rgba(34, 36, 75, 0.3);
+
+   padding-left: 10.67vw;
+   padding-right: 30vw;
+   padding-top: 3.65vh;
+   font-family: "Poppins", sans-serif;
+   font-weight: 300;
+   font-size: 1.4vw;
+   line-height: 1.3em;
+   color: rgb(255, 255, 255);
+   text-align: left;
+   display: flex;
+}
+
+.shape {
+   position: absolute;
+   width: auto;
+   height: 14.25vh;
+
+   left: 0;
+   top: 0;
+}
+
+.number {
+   position: absolute;
+   width: auto;
+   height: 14.25vh;
+
+   left: 0;
+   top: 0;
+   padding-top: 4vh;
+   padding-bottom: 4vh;
+   padding-left: 6.91vh;
+
+   font-family: "Poppins", sans-serif;
+   font-weight: 600;
+   font-size: 2.4vw;
+   line-height: 1.3em;
+   color: rgb(255, 255, 255);
+   text-align: left;
+   display: flex;
+}
+
+.qvBot {
+   position: absolute;
+   right: 9.3vw;
+   top: 30vh;
+   width: 16vw;
+   height: auto;
+}
+
+.answer{
+
+}
