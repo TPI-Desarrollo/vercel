@@ -1,29 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" width="366.13" height="290.97" viewBox="0 0 366.13 290.97">
-   <style>
-      #menu, #progressBar, #popupProgress, #popupNav, #popupBiblio, #popupCredits, #popupExit,
-      #iconMenuHover, #iconBiblioHover, #iconCreditsHover, #iconExitHover {
-         visibility: hidden;
-      }
-
-      #containerIconBack, #iconBack,
-      #containerIconNext, #iconNext,
-      #containerIconMenu, #iconMenu, #iconMenuHover,
-      #containerIconBiblio, #iconBiblio, #iconBiblioHover, 
-      #containerIconCredits, #iconCredits, #iconCreditsHover,
-      #containerIconExit, #iconExit, #iconExitHover,
-      #popupProgress {
-         cursor: pointer;
-         -webkit-user-select: none; /* Safari */
-         -ms-user-select: none; /* IE 10 and IE 11 */
-         user-select: none; /* Standard syntax */
-      }
-
-      #containerBack, #iconBack {
-         opacity: 0.5;
-         cursor: auto;
-      }
-   </style>
   <rect id="containerIcons" x="-.22" y="199.7" width="349.92" height="70.69" rx="11.02" ry="11.02" style="fill: #edf0f4; opacity: .25;"/>
   <circle id="containerMenu" cx="148.37" cy="234.13" r="22.79" style="fill: #5e4294;"/>
   <g id="iconMenu">
