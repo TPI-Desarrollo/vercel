@@ -3,7 +3,7 @@ import loader from "./loader";
 
 const NavBar = (props) => {
    return (
-      <object id="ovaNavBar" onLoad={loader(props)} className={styles.navbar}
+      <object id="ovaNavBar" className={styles.navbar}
          type="image/svg+xml" data="/images/ovas/template/ovaNavBar.svg" />
    );
 }
