@@ -19,7 +19,6 @@ export default function Home() {
          <main className={styles.main}>
             <div className={styles.navBar} />
             <Ova data={data} html={html} css={css} />
-            {/* <Ova data={data.pestel} html={html.pestel} css={css.pestel} /> */}
          </main>
       </>
    );
