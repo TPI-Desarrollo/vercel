@@ -24,7 +24,7 @@ export default function Home() {
 
             {/* <object id="ovaNavBar" className={styles.navbar}
                type="image/svg+xml" data="/images/ovas/template/ovaNavBar.svg" /> */}
-            <Image src="/images/ovas/template/ovaNavBar.svg" alt="An SVG of an eye" height={200} width={200} />
+            <Image src="./images/ovas/template/ovaNavBar.svg" alt="An SVG of an eye" height={200} width={200} />
 
          </main>
       </>
