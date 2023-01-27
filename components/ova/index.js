@@ -42,7 +42,7 @@ const slideshow = (currentIndex, nextIndex) => {
    return [currentIndex, nextIndex, slides.length - 1, currentProgressIndex, numProgressSlides];
 }
 
-const Ova = (props) => {
+const ova = (props) => {
    const [indexes, setIndexes] = useState([0, 0]);
 
    return (
@@ -60,4 +60,4 @@ const Ova = (props) => {
    );
 };
 
-export default Ova;
+export default ova;

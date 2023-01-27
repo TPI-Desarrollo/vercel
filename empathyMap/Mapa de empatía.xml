@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<lom xmlns="http://ltsc.ieee.org/xsd/LOM" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ltsc.ieee.org/xsd/LOM http://ltsc.ieee.org/xsd/lomv1.0/lom.xsd">
+<general><identifier>
+<catalog>URI</catalog>
+<entry>Poner dirección del URL del OVA MAPA DE EMPATÍA</entry>
+</identifier>
+<title><string language="es">MAPA DE EMPATÍA</string>
+</title>
+<language>es</language>
+<description><string language="es">El mapa de empatía es una herramienta del Design Thinking, que permite conocer una persona desde sus emociones y sentimientos, permite ver situaciones desde diferentes perspectivas y entender los comportamientos de las personas. Así por ejemplo nos permite conocer un cliente, lo que piensa o motiva a una parte interesada en un proyecto específico, lo que motiva a un proveedor, entre  otros. El mapa de empatía permite cumplir con la primera fase del Design Thinking que es empatiza (Emphatize), en donde se busca explorar alrededor del contexto social del usuario. Interpretar las visiones de los usuarios permite identificar las causas de los problemas.</string>
+</description>
+<keyword><string language="es">Empatía, emociones, partes interesadas y contexto social.</string>
+</keyword>
+<coverage><string language="es">Siglo 21</string>
+</coverage>
+<structure><source>LOMv1.0</source>
+<value>linear</value></structure>
+<aggregationLevel><source>LOMv1.0</source>
+<value>2</value></aggregationLevel>
+</general>
+<lifeCycle><version><string language="es">1.0</string>
+</version>
+<status><source>LOMv1.0</source>
+<value>final</value></status>
+<contribute>
+<role><source>LOMv1.0</source>
+<value>instructional designer</value></role>
+<entity>
+<![CDATA[BEGIN:VCARD
+VERSION:3.0
+N:Chacón Rivera;Lina María;;;
+FN:Lina María Chacón Rivera
+EMAIL;TYPE=INTERNET:lmchaconr@unal.edu.co
+ORG:Universidad Nacional de Colombia
+END:VCARD]]></entity>
+<date><dateTime>2022-12-29T07:18:00.00</dateTime>
+<description><string language="es">La profesora Lina Chacón se encargó del Diseño pedagógico del OVA MAPA DE EMPATÍA</string>
+</description>
+</date>
+</contribute>
+<contribute>
+<role><source>LOMv1.0</source>
+<value>technical implementer</value></role>
+<entity>
+<![CDATA[BEGIN:VCARD
+VERSION:3.0
+N:Vargas Morales;Cristian Camilo;;;
+FN:Cristian Camilo Vargas Morales
+EMAIL;TYPE=INTERNET:crvargasm@unal.edu.co
+ORG:Universidad Nacional de Colombia
+END:VCARD]]></entity>
+<date><dateTime>2022-12-29T07:18:00.00</dateTime>
+<description><string language="es">Cristian Camilo Vargas Morales se encargó del desarrollo a nivel de Frontend del OVA MAPA DE EMPATÍA</string>
+</description>
+</date>
+</contribute>
+<contribute>
+<role><source>LOMv1.0</source>
+<value>graphical designer</value></role>
+<entity>
+<![CDATA[BEGIN:VCARD
+VERSION:3.0
+N:González Ramírez;Joshua;;;
+FN:Joshua González Ramírez
+EMAIL;TYPE=INTERNET:jogonzalezra@unal.edu.co
+ORG:Universidad Nacional de Colombia
+END:VCARD]]></entity>
+<date><dateTime>2022-12-29T07:18:00.00</dateTime>
+<description><string language="es">Joshua González Ramírez se encargó de realizar el diseño gráfico del OVA MAPA DE EMPATÍA</string>
+</description>
+</date>
+</contribute>
+<contribute>
+<role><source>LOMv1.0</source>
+<value>technical implementer</value></role>
+<entity>
+<![CDATA[BEGIN:VCARD
+VERSION:3.0
+N:Medellín Ráquira;Miguel Alfredo;;;
+FN:Miguel Alfredo Medellín Ráquira
+EMAIL;TYPE=INTERNET:mamedellinr@unal.edu.co
+ORG:Universidad Nacional de Colombia
+END:VCARD]]></entity>
+<date><dateTime>2022-12-29T07:18:00.00</dateTime>
+<description><string language="es">Miguel Alfredo Medellín Ráquira se encargó de realizar el desarrollo a nivel Backend del OVA MAPA DE EMPATÍA</string>
+</description>
+</date>
+</contribute>
+<contribute>
+<role><source>LOMv1.0</source>
+<value>validator</value></role>
+<entity>
+<![CDATA[BEGIN:VCARD
+VERSION:3.0
+N:Herrera Jiménez;Alfonso;;;
+FN:Alfonso Herrera Jiménez
+EMAIL;TYPE=INTERNET:aherreraj@unal.edu.co
+ORG:Universidad Nacional de Colombia
+END:VCARD]]></entity>
+<date><dateTime>2022-12-29T07:18:00.00</dateTime>
+<description><string language="es">El profesor Alfonso Herrera Jiménez se encargó de la revisión de los contenidos del OVA y su validez pedagógica.</string>
+</description>
+</date>
+</contribute>
+</lifeCycle>
+<metaMetadata><identifier>
+<catalog>URI</catalog>
+<entry>Poner dirección del URL de los metadatos del OVA</entry>
+</identifier>
+<contribute>
+<role><source>LOMv1.0</source>
+<value>creator</value></role>
+<entity>
+<![CDATA[BEGIN:VCARD
+VERSION:3.0
+N:Valdelamar Jiménez;Fabián Arturo;;;
+FN:Fabián Arturo Valdelamar Jiménez
+EMAIL;TYPE=INTERNET:favaldelamarj@unal.edu.co
+ORG:Universidad Nacional de Colombia
+END:VCARD]]></entity>
+<date><dateTime>2022-12-29T07:18:00.00</dateTime>
+<description><string language="es">Fabián Arturo Valdelamar Jiménez es el encargado de diligenciar los metadatos del OVA MAPA DE EMPATÍA</string>
+</description>
+</date>
+</contribute>
+<metadataSchema>IEEE LOMv1.0</metadataSchema>
+<language>es</language>
+</metaMetadata>
+<educational><interactivityType><source>LOMv1.0</source>
+<value>mixed</value></interactivityType>
+<learningResourceType><source>LOMv1.0</source>
+<value>exercise</value></learningResourceType>
+<interactivityLevel><source>LOMv1.0</source>
+<value>medium</value></interactivityLevel>
+<semanticDensity><source>LOMv1.0</source>
+<value>low</value></semanticDensity>
+<intendedEndUserRole><source>LOMv1.0</source>
+<value>learner</value></intendedEndUserRole>
+<intendedEndUserRole><source>LOMv1.0</source>
+<value>teacher</value></intendedEndUserRole>
+<intendedEndUserRole><source>LOMv1.0</source>
+<value>manager</value></intendedEndUserRole>
+<context><source>LOMv1.0</source>
+<value>other</value></context>
+<typicalAgeRange><string language="es">16-</string>
+</typicalAgeRange>
+<difficulty><source>LOMv1.0</source>
+<value>medium</value></difficulty>
+<typicalLearningTime><duration>PT1H00M</duration>
+<description><string language="es">Se estima que la duración de la lección durante la mentoría dure una hora</string>
+</description>
+</typicalLearningTime>
+<description><string language="es">Estudio de la OVA por parte del estudiante y aplicación de conceptos con el equipo para la construcción de la infografía:
+- Definición y aspectos claves de mapa de empatía
+- Relación del mapa de empatía con el Design Thinking
+- Construyendo un mapa de empatía. Video
+- Presentación de mapas de empatía al mentor</string>
+</description>
+<language>es</language>
+</educational>
+<rights><cost><source>LOMv1.0</source>
+<value>no</value></cost>
+<copyrightAndOtherRestrictions><source>LOMv1.0</source>
+<value>yes</value></copyrightAndOtherRestrictions>
+<description><string language="es">El OVA MAPA DE EMPATÍA es de uso libre y gratuito, sin embargo solo puede ser modificado por personal adscrito a la materia TPI.</string>
+</description>
+</rights>
+<relation><kind><source>LOMv1.0</source>
+<value>ispartof</value></kind>
+<resource><identifier>
+<catalog>URI</catalog>
+<entry>Poner dirección del URL del OVA INFOGRAFÍA INTERACTIVA DE EJEMPLO</entry>
+</identifier>
+<description><string language="es">El OVA INFOGRAFÍA INTERACTIVA DE EJEMPLO requiere que el OVA MAPA DE EMPATÍA se lleve a cabo y que los estudiantes hayan aprendido a empatizar con las partes interesadas.</string>
+</description>
+</resource>
+</relation>
+<annotation><entity>
+<![CDATA[BEGIN:VCARD
+VERSION:3.0
+N:Chacón Rivera;Lina María;;;
+FN:Lina María Chacón Rivera
+EMAIL;TYPE=INTERNET:lmchaconr@unal.edu.co
+ORG:Universidad Nacional de Colombia
+END:VCARD]]></entity>
+<date><dateTime>2022-12-29T07:18:00.00</dateTime>
+</date>
+<description><string language="es">Con el OVA MAPA DE EMPATÍA se espera que los estudiantes logren conocer a las partes interesadas y sus necesidades.</string>
+</description>
+</annotation>
+<classification><purpose><source>LOMv1.0</source>
+<value>educational objective</value></purpose>
+<taxonPath><source><string language="es">UDC</string>
+</source>
+<taxon>
+<id>658.8</id>
+<entry><string language="es">Mercadotécnia. Ventas. Distribución</string>
+</entry>
+</taxon>
+</taxonPath>
+<description><string language="es">El mapa de empatía es una herramienta del Design Thinking, que permite conocer una persona desde sus emociones y sentimientos, permite ver situaciones desde diferentes perspectivas y entender los comportamientos de las personas.</string>
+</description>
+<keyword><string language="es">Mercadotécnia, Design Thinking, empatía.</string>
+</keyword>
+</classification>
+</lom>

@@ -2,8 +2,6 @@ import Head from "next/head";
 import styles from "@/styles/Home.module.css";
 import Ova from "../components/ova";
 
-import Image from "next/image";
-
 import data from '../public/json/ovas/pestel.json';
 import html from '../public/html/ovas/pestel.html';
 import css from '../public/css/ovas/pestel.module.css';
@@ -20,12 +18,7 @@ export default function Home() {
          <div className={styles.header} />
          <main className={styles.main}>
             <div className={styles.navBar} />
-            {/* <Ova data={data} html={html} css={css} /> */}
-
-            {/* <object id="ovaNavBar" className={styles.navbar}
-               type="image/svg+xml" data="/images/ovas/template/ovaNavBar.svg" /> */}
-            <Image src="./images/ovas/template/ovaNavBar.svg" alt="An SVG of an eye" height={200} width={200} />
-
+            <Ova data={data} html={html} css={css} />
          </main>
       </>
    );
